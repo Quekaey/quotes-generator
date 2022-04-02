@@ -1,0 +1,1 @@
+A web application that can be used to generate random quotes. In this Project, you can find a 'Find Quotes' Button which will generate different quotes with the writer's name when you click on it. quotes from famous people using simple HTML CSS and javascript codes.
